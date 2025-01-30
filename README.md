@@ -55,7 +55,7 @@ We used [ndarray crate](https://crates.io/crates/ndarray) for majority of the no
 
 The *notebooks* of importance are everything except `nb004`. Just ignore that.
 
-Andrej this time did not write any library unlike [microgradr](https://github.com/shoestringinc/microgradr).
+Andrej this time did not write a library like when he did for [microgradr](https://github.com/shoestringinc/microgradr). Everyhting was done in a notebook.
 
 The entire `makemore` language model was coded in a Python notebook and we likewise coded in `nb001` to `nb005`.
 
